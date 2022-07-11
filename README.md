@@ -2,7 +2,7 @@
 
 ### My name is [Piyush](https://portfolio.bpiyushsingh.com) :sweat_smile:
 
-I am a Full Stack Developer. For the past few years, I have been building pixel perfect, responsive, scalable & optimized web applications. Currently, I am building some cool products as a Full Stack Developer at Adobe(https://www.adobe.com).
+I am a Full Stack Developer. For the past few years, I have been building pixel perfect, responsive, scalable & optimized web applications. Currently, I am building some cool products as a Full Stack Developer at [Adobe](https://www.adobe.com).
 
 My interests are manifold and constantly evolving, including capturing moments on my phone, learning new musical instruments, cooking some awesome delicacies and exploring Himalayan ranges. Visit my [Instagram](https://www.instagram.com/bpiyushsingh/) profile to have a look on some of my clicks.
 

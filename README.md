@@ -54,6 +54,6 @@ You can also have a look on my [Portfolio](https://portfolio.bpiyushsingh.com).
 [![Instagram: bpiyushsingh](https://img.shields.io/badge/-bpiyushsingh-B632AD?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/bpiyushsingh/)](https://www.instagram.com/bpiyushsingh/)
 [![Github: bpiyushsingh](https://img.shields.io/badge/-bpiyushsingh-24292E?style=flat-square&logo=Github&logoColor=white&link=https://www.github.com/bpiyushsingh)](https://www.github.com/bpiyushsingh)
 [![Twitter: bpiyushsingh](https://img.shields.io/badge/-bpiyushsingh-1DA1F1?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/bpiyushsingh/)](https://twitter.com/bpiyushsingh/)
-[![website](https://img.shields.io/badge/Portfolio-9E2941.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://portfolio.bpiyushsingh.com/)](https://portfolio.bpiyushsingh.com/)
+[![website](https://img.shields.io/badge/Portfolio-9E2941.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://www.bpiyushsingh.com/)](https://www.bpiyushsingh.com/)
 
 ###### <img align="center" src="https://visitor-badge.glitch.me/badge?page_id=bpiyushsingh.bpiyushsingh" height="18"> visitors landed on this page :partying_face:

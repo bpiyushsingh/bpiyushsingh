@@ -6,7 +6,7 @@ I am a Full Stack Developer. For the past few years, I have been building pixel 
 
 My interests are manifold and constantly evolving, including capturing moments on my phone, learning new musical instruments, cooking some awesome delicacies and exploring Himalayan ranges. Visit my [Instagram](https://www.instagram.com/bpiyushsingh/) profile to have a look on some of my clicks.
 
-You can also have a look on my [Portfolio](https://www.bpiyushsingh.com).
+You can also have a look on my [Portfolio](https://bpiyushsingh.github.io/portfolio/).
 
 ###### I'm good at working on :technologist:
 

@@ -2,7 +2,7 @@
 
 ### My name is [Piyush](https://portfolio.bpiyushsingh.com) :sweat_smile:
 
-I am a Full Stack Developer. For the past few years, I have been building pixel perfect, responsive, scalable & optimized web applications. Currently, I am building some cool products as a Full Stack Developer at [Adobe](https://www.adobe.com).
+I am a Full Stack Developer. For the past few years, I have been building pixel perfect, responsive, scalable & optimized web applications. Currently, I am building some cool products as a Full Stack Developer at [Atlassian](https://www.atlassian.com).
 
 My interests are manifold and constantly evolving, including capturing moments on my phone, learning new musical instruments, cooking some awesome delicacies and exploring Himalayan ranges. Visit my [Instagram](https://www.instagram.com/bpiyushsingh/) profile to have a look on some of my clicks.
 
@@ -42,6 +42,7 @@ You can also have a look on my [Portfolio](https://www.bpiyushsingh.com).
 <img alt="NPM" src="https://img.shields.io/badge/-NPM-FFFFFF?style=flat&logo=npm&logoColor=white" />
 <img alt="Swagger" src="https://img.shields.io/badge/-Swagger-85EA2D?style=flat&logo=swagger&logoColor=white" />
 <img alt="cypress" src="https://img.shields.io/badge/-Cypress-17202C?style=flat&logo=Cypress&logoColor=white" />
+<img alt="cypress" src="https://img.shields.io/badge/-Playwright-242526?style=flat&logo=Playwright" />
 <img alt="VSCode" src="https://img.shields.io/badge/-VS Code-007ACC?style=flat&logo=VisualStudioCode&logoColor=white" />
 <img alt="Nodemon" src="https://img.shields.io/badge/-Nodemon-76D04B?style=flat&logo=Nodemon&logoColor=white" />
 <img alt="Jira" src="https://img.shields.io/badge/-Jira-0052CC?style=flat&logo=jira&logoColor=white" />
